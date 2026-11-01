@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Suppliers";
+
+    string[] supplierNames = { "Fresh Food", "Drink Company", "Coffee House" };
+
+    string[] suppliedProducts = { "Sandwiches", "Juices", "Coffee" };
+
+    string[] phoneNumbers = { "0791111111", "0782222222", "0773333333" };
+}
+
+<h1>Cafeteria Suppliers</h1>
+
+<p>List of suppliers for the university cafeteria.</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Supplier Name</th>
+            <th>Product</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @for (int i = 0; i < supplierNames.Length; i++)
+        {
+            <tr>
+                <td>@(i + 1)</td>
+                <td>@supplierNames[i]</td>
+                <td>@suppliedProducts[i]</td>
+                <td>@phoneNumbers[i]</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Cafeteria"
+   asp-action="Index"
+   class="btn btn-primary">
+    Back to Home
+</a>

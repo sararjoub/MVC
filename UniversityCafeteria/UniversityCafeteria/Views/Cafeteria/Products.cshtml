@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Products";
+
+    string cafeteriaName = "University Cafeteria";
+
+    string[] products = { "Sandwich", "Juice", "Water", "Coffee" };
+
+    double[] prices = { 2.50, 1.50, 0.50, 1.00 };
+
+    bool[] available = { true, true, false, true };
+
+}
+
+<h1>@cafeteriaName</h1>
+
+<h2>Products List</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Price (JD)</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @for (int i = 0; i < products.Length; i++)
+        {
+            <tr>
+                <td>@(i + 1)</td>
+                <td>@products[i]</td>
+                <td>@prices[i]</td>
+
+                <td>
+                    @if (available[i])
+                    {
+                        <span class="badge bg-success">Available</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Out of Stock</span>
+                    }
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

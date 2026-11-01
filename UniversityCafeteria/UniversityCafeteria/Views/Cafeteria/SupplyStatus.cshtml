@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Supply Status";
+
+    string[] products = { "Sandwich", "Juice", "Water", "Coffee" };
+
+    int[] quantities = { 30, 15, 0, 8 };
+}
+
+<h1>Cafeteria Supply Status</h1>
+
+<p>Check the current supply status of cafeteria products.</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @for (int i = 0; i < products.Length; i++)
+        {
+            <tr>
+                <td>@(i + 1)</td>
+                <td>@products[i]</td>
+                <td>@quantities[i]</td>
+                <td>
+                    @if (quantities[i] == 0)
+                    {
+                        <span class="badge bg-danger">
+                            Out of Stock
+                        </span>
+                    }
+                    else if (quantities[i] < 10)
+                    {
+                        <span class="badge bg-warning text-dark">
+                            Low Stock
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">
+                            Available
+                        </span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Cafeteria"
+   asp-action="Index"
+   class="btn btn-primary">
+    Back to Home
+</a>
