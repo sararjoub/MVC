@@ -1,0 +1,31 @@
+﻿body {
+}
+
+.products-page {
+    background-color: #f0f7ff;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+    .products-page h2 {
+        color: #34568b;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .products-page ul {
+        background-color: white;
+        padding: 25px 25px 25px 45px;
+        border-radius: 10px;
+    }
+
+    .products-page li {
+        font-size: 18px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .products-page p {
+        color: green;
+        font-weight: bold;
+    }

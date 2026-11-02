@@ -1,0 +1,34 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>University Cafeteria</title>
+</head>
+<body>
+
+    <header>
+        <h1>University Cafeteria</h1>
+
+        <nav>
+            <a href="/Cafeteria/Index">Home</a> |
+            <a href="/Cafeteria/Products">Products</a> |
+            <a href="/Cafeteria/Suppliers">Suppliers</a> |
+            <a href="/Cafeteria/SupplyStatus">Supply Status</a>
+        </nav>
+    </header>
+
+    <hr />
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <hr />
+
+    <footer>
+        <p>© 2026 University Cafeteria</p>
+    </footer>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

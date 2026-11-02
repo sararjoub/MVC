@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    Layout = "_SimpleLayout";
+
+    ViewData["Title"] = "Suppliers";
+
+    string[] suppliers = {
+        "Fresh Food Company",
+        "Happy Drinks Company",
+        "Daily Supplies Company"
+    };
+}
+
+<h2>Our Suppliers</h2>
+
+<ul>
+    @foreach (string supplier in suppliers)
+    {
+        <li>@supplier</li>
+    }
+</ul>
+
+@if (suppliers.Length >= 3)
+{
+    <p>We have enough suppliers.</p>
+}
+else
+{
+    <p>We need more suppliers.</p>
+}
