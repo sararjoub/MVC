@@ -1,0 +1,119 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@using UniversityCafeteria2.Models
+
+@{
+    ViewData["Title"] = "Review Draft";
+
+    List<SupplyItem> items =
+        ViewBag.Items as List<SupplyItem>
+        ?? new List<SupplyItem>();
+}
+
+
+<div class="container py-5">
+
+    <div class="card shadow-sm border-0 mx-auto"
+         style="max-width: 900px; border-radius: 15px;">
+
+        <div class="card-body p-4">
+
+            <h3 class="text-center mb-4">
+                Review Supply Request
+            </h3>
+            @if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["Message"]
+    </div>
+}
+
+            @if (items.Count == 0)
+            {
+                <div class="alert alert-warning">
+                    Your supply request is empty.
+                </div>
+
+                <a href="@Url.Action("Index", "SupplyRequest")"
+                   class="btn btn-primary">
+                    Add Products
+                </a>
+            }
+            else
+            {
+                <table class="table table-bordered table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Product</th>
+                            <th>Category</th>
+                            <th>Quantity</th>
+                            <th>Unit Price</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in items)
+                        {
+                            <tr>
+                                <td>@item.ProductName</td>
+                                <td>@item.Category</td>
+                                <td>@item.Quantity</td>
+                                <td>@item.UnitPrice JD</td>
+                                <td>@(item.Quantity * item.UnitPrice) JD</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+                <hr />
+
+                <h5>Cost Summary</h5>
+
+                <p>Priority: <strong>@ViewBag.Priority</strong></p>
+                <p>Subtotal: @ViewBag.Subtotal JD</p>
+                <p>Preparation Fee: @ViewBag.PreparationFee JD</p>
+                <p>Discount: @ViewBag.Discount JD</p>
+
+                <h4 class="text-success">
+                    Final Total: @ViewBag.FinalTotal JD
+                </h4>
+
+                <hr />
+
+                <a href="@Url.Action("Index", "SupplyRequest")"
+                   class="btn btn-secondary">
+                    Add More Products
+                </a>
+                <form method="post"
+      action="@Url.Action("ConfirmRequest", "SupplyRequest")"
+      class="d-inline">
+
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-success">
+        Confirm Request
+    </button>
+</form>
+
+<form method="post"
+      action="@Url.Action("ClearDraft", "SupplyRequest")"
+      class="d-inline">
+
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-danger">
+        Clear Draft
+    </button>
+</form>
+
+            }
+
+        </div>
+    </div>
+</div>

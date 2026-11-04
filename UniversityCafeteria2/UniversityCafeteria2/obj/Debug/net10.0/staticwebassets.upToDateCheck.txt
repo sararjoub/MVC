@@ -1,4 +1,3 @@
-wwwroot\css\products.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -62,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\products.css
 C:\Users\user\Desktop\MVC\UniversityCafeteria2\UniversityCafeteria2\wwwroot\css\site.css
 C:\Users\user\Desktop\MVC\UniversityCafeteria2\UniversityCafeteria2\wwwroot\favicon.ico
 C:\Users\user\Desktop\MVC\UniversityCafeteria2\UniversityCafeteria2\wwwroot\js\site.js

@@ -1,0 +1,92 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using UniversityCafeteria2.Models
+
+@{
+    ViewData["Title"] = "My Requests";
+
+    List<ConfirmedRequest> requests =
+        ViewBag.Requests as List<ConfirmedRequest>
+        ?? new List<ConfirmedRequest>();
+}
+
+<div class="container py-5">
+
+    <div class="card shadow-sm border-0 mx-auto"
+         style="max-width: 1100px; border-radius: 15px;">
+
+        <div class="card-body p-4">
+
+            <h3 class="text-center mb-4">
+                My Supply Requests
+            </h3>
+
+            @if (TempData["Message"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["Message"]
+                </div>
+            }
+
+            @if (requests.Count == 0)
+            {
+                <div class="alert alert-warning">
+                    No confirmed requests yet.
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table table-bordered table-hover">
+
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Request ID</th>
+                                <th>Products</th>
+                                <th>Subtotal</th>
+                                <th>Preparation Fee</th>
+                                <th>Discount</th>
+                                <th>Final Total</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var request in requests)
+                            {
+                                <tr>
+                                    <td>@request.RequestId</td>
+                                    <td>@request.NumberOfProducts</td>
+                                    <td>@request.Subtotal JD</td>
+                                    <td>@request.PreparationFee JD</td>
+                                    <td>@request.Discount JD</td>
+                                    <td>
+                                        <strong>
+                                            @request.FinalTotal JD
+                                        </strong>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-success">
+                                            @request.Status
+                                        </span>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+
+                    </table>
+                </div>
+            }
+
+            <a href="@Url.Action("Index", "SupplyRequest")"
+               class="btn btn-primary mt-3">
+                Create New Request
+            </a>
+
+        </div>
+    </div>
+</div>

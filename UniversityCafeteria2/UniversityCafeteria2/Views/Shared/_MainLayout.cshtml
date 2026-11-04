@@ -13,39 +13,84 @@
         <h1>University Cafeteria</h1>
 
       
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container">
+       
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
 
-                <a class="navbar-brand" href="/Supply/Index">
-                    University Cafeteria
-                </a>
+        <a class="navbar-brand"
+           href="@Url.Action("Index", "Cafeteria")">
+            University Cafeteria
+        </a>
 
-                <div class="navbar-nav">
+        <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#mainNavbar"
+                aria-controls="mainNavbar"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                    <a class="nav-link" href="/Supply/Index">
+        <div class="collapse navbar-collapse" id="mainNavbar">
+
+            <ul class="navbar-nav ms-auto">
+
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("Index", "Cafeteria")">
                         Home
                     </a>
+                </li>
 
-                    <a class="nav-link" href="/Supply/Products">
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("Products", "Cafeteria")">
                         Products
                     </a>
+                </li>
 
-                    <a class="nav-link" href="/Supply/Suppliers">
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("Suppliers", "Cafeteria")">
                         Suppliers
                     </a>
+                </li>
 
-                    <a class="nav-link" href="/Supply/CreateRequest">
-                        Create Request
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("Index", "SupplyRequest")">
+                        Create Supply Request
                     </a>
+                </li>
 
-                    <a class="nav-link" href="/Supply/About">
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("Review", "SupplyRequest")">
+                        Review Draft
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("MyRequests", "SupplyRequest")">
+                        My Requests
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="@Url.Action("About", "SupplyRequest")">
                         About
                     </a>
+                </li>
 
-                </div>
+            </ul>
 
-            </div>
-        </nav>
+        </div>
+    </div>
+</nav>
+
 
     </header>
 
