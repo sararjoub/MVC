@@ -1,0 +1,222 @@
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\appsettings.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.staticwebassets.runtime.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.staticwebassets.endpoints.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.exe
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.deps.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.runtimeconfig.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\CafeteriaManagement code-data-first.pdb
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Humanizer.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.AssemblyInfo.cs
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.sourcelink.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\scopedcss\bundle\CafeteriaManagement code-data-first.styles.css
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\scopedcss\projectbundle\CafeteriaManagement code-data-first.bundle.scp.css
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\yur06xxybi-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\avnt09qoie-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\7em279pnqr-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\5w9y2favd1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\zfhn7w5npq-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\u8bmvfotwr-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\u6lt417m5k-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ner53e6eoh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ff18reoaqd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\dchzqib20l-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\sk8euhe3cb-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\nr9st82n9o-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\4bnz3h8b95-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\mmhwbj9jnl-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\qd37dp6ka7-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\uy9xk04ov1-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\4awvqa1lov-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\opdw8h1v8h-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\3j8y5iwt9s-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\kkr1ff8c9d-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\al50nvrh06-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\z51v7ab6uw-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\q0bu644tds-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\9jkrgp4nim-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\tekt5w5r9d-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\4gkwssj3n5-{0}-06098lyss8-06098lyss8.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\nek2cqxlsv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\w2pijsl7nq-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\muhp3syhf7-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\qlztrxb6lq-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\8s4rxmt427-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\vk9mu1k04d-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\jnnxt35jwr-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ncqso2rp93-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ksqdm3pli2-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\zxhlx2r38v-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\23ujm5c7p4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\607boh3jz5-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\9qad9ptcl2-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\gavzayw1bf-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\qtm9adam2q-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\v66wyzlknn-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\1n3mn42cdj-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\y1eeqcslni-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\5dk3g7u5tz-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\tp7nn6hof8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\b05dfhrovj-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\e4np4l0wp5-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\8s3xboppxf-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ykckwzztsx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ih70crz6ld-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\vibaen0ftk-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\diss7m1x0n-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\i4w6zzhqde-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\6ahcug7c13-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\qjop6v9x1t-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\q525i3o134-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\5cxx0k4a58-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\5sc3g73g66-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\d6phlrqysn-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\lh1cezj2at-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\3kqpaiqau3-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\ri8m874b4y-{0}-qnr4o8zief-qnr4o8zief.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\compressed\xtsaifgkn0-{0}-qnr4o8zief-qnr4o8zief.gz
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\Cafeteri.9C79F644.Up2Date
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\refint\CafeteriaManagement code-data-first.dll
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.pdb
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\CafeteriaManagement code-data-first.genruntimeconfig.cache
+C:\Users\user\Desktop\MVC\CafeteriaManagement code-data-first\CafeteriaManagement code-data-first\obj\Debug\net10.0\ref\CafeteriaManagement code-data-first.dll

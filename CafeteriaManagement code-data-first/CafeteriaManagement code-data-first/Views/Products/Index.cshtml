@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CafeteriaManagement_code_data_first.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container mt-4">
+
+    <h2>Products List</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Category</th>
+                <th>Supplier</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Quantity</td>
+                    <td>@product.Categ.CategName</td>
+                    <td>@product.Supplier.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
