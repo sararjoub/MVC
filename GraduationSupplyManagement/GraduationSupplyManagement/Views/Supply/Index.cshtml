@@ -1,0 +1,63 @@
+﻿@model List<GraduationSupplyManagement.Models.SupplyOffer>
+
+@{
+    ViewData["Title"] = "Create Supply Request";
+}
+
+<div class="container mt-4">
+
+    <h2>Create Supply Request</h2>
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["Message"]
+        </div>
+    }
+
+    <form method="post" action="@Url.Action("SelectOffers", "Supply")">
+
+        @Html.AntiForgeryToken()
+
+        @foreach (var category in Model.Select(o => o.Category).Distinct())
+        {
+            <h4 class="mt-4">@category</h4>
+
+            <table class="table table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Select</th>
+                        <th>Supplier</th>
+                        <th>Offer</th>
+                        <th>Quantity</th>
+                        <th>Unit Price</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var offer in Model.Where(o => o.Category == category))
+                    {
+                        <tr>
+                            <td>
+                                <input type="radio"
+                                       name="@(category == "Graduation Certificates" ? "certificateId" :
+                                                category == "Hospitality" ? "hospitalityId" : "giftId")"
+                                       value="@offer.Id" />
+                            </td>
+
+                            <td>@offer.SupplierName</td>
+                            <td>@offer.OfferName</td>
+                            <td>@offer.Quantity</td>
+                            <td>@offer.UnitPrice JD</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+        <button type="submit" class="btn btn-primary mt-3">
+            Review Selected Offers
+        </button>
+
+    </form>
+
+</div>
