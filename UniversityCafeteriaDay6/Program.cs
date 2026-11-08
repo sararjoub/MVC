@@ -5,9 +5,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// AddDbContext: بيسجل ApplicationDbContext في المشروع باستخدام Dependency Injection.
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection")
+        builder.Configuration.GetConnectionString("DefaultConnection")  // GetConnectionString: بقرأ معلومات الاتصال من appsettings.json
     )
 );
 

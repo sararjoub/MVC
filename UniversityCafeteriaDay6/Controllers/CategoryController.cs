@@ -28,7 +28,7 @@ namespace UniversityCafeteriaDay6.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Category category)
+        public IActionResult Create(Category category)   // Category category: استقبال بيانات الفورم باستخدام Model Binding.
         {
             _context.Categories.Add(category);
 

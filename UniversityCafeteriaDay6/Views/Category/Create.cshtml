@@ -4,29 +4,22 @@
 @{
 }
 
+
 @model UniversityCafeteriaDay6.Models.Category
 
 <h2>Add Category</h2>
 
-@using (Html.BeginForm("Create", "Category", FormMethod.Post))
+@using (Html.BeginForm())
 {
-    @Html.AntiForgeryToken()
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name)
 
-    <div class="mb-3">
-        @Html.LabelFor(m => m.Name)
+    <br />
 
-        @Html.TextBoxFor(m => m.Name,
-            new { @class = "form-control" })
-    </div>
+    @Html.LabelFor(x => x.Description)
+    @Html.TextBoxFor(x => x.Description)
 
-    <div class="mb-3">
-        @Html.LabelFor(m => m.Description)
+    <br />
 
-        @Html.TextBoxFor(m => m.Description,
-            new { @class = "form-control" })
-    </div>
-
-    <button type="submit" class="btn btn-success">
-        Save Category
-    </button>
+    <button type="submit">Save</button>
 }

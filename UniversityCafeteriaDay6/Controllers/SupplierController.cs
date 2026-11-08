@@ -14,9 +14,8 @@ namespace UniversityCafeteriaDay6.Controllers
         }
         public IActionResult Index()
         {
-            var suppliers = _context.Suppliers.ToList();
-
-            return View(suppliers);
+            var supplier = _context.Suppliers.ToList();
+            return View(supplier);
         }
 
         [HttpGet]
@@ -24,15 +23,12 @@ namespace UniversityCafeteriaDay6.Controllers
         {
             return View();
         }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Supplier supplier)
         {
             _context.Suppliers.Add(supplier);
-
             _context.SaveChanges();
-
             return RedirectToAction("Index");
         }
     }

@@ -17,7 +17,7 @@ public partial class Product
 
     public int SupplierId { get; set; }
 
-    public virtual Category Categ { get; set; } = null!;
+    public virtual Category Categ { get; set; } = null!; //Navigation Property
 
     public virtual ICollection<PurchaseOrderItem> PurchaseOrderItems { get; set; } = new List<PurchaseOrderItem>();
 

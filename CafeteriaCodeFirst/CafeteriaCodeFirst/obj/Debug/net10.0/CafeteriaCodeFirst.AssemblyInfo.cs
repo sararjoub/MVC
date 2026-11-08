@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CafeteriaCodeFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc5ab0c8bfe2261e7aac2b4c88f604b9ec90011")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faad0ffa2e8c7fb3e49a788e6ad102da5184deed")]
 [assembly: System.Reflection.AssemblyProductAttribute("CafeteriaCodeFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CafeteriaCodeFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
