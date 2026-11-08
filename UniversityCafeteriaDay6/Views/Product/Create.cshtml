@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model UniversityCafeteriaDay6.Models.Product
+
+<h2>Add Product</h2>
+
+@using (Html.BeginForm("Create", "Product", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name,
+            new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Price)
+        @Html.TextBoxFor(m => m.Price,
+            new { @class = "form-control", type = "number", step = "0.01" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Quantity)
+        @Html.TextBoxFor(m => m.Quantity,
+            new { @class = "form-control", type = "number" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.CategoryId)
+        @Html.DropDownListFor(
+            m => m.CategoryId,
+            new SelectList(ViewBag.Categories, "Id", "Name"),
+            "Select Category",
+            new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.SupplierId)
+        @Html.DropDownListFor(
+            m => m.SupplierId,
+            new SelectList(ViewBag.Suppliers, "Id", "Name"),
+            "Select Supplier",
+            new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        Save Product
+    </button>
+}
