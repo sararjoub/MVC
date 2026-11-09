@@ -17,6 +17,14 @@
         @Html.TextBoxFor(m => m.Name,
             new { @class = "form-control" })
     </div>
+    
+<br />
+
+@Html.LabelFor(x => x.Description)
+@Html.TextBoxFor(x => x.Description)
+
+<br />
+
 
     <div class="mb-3">
         @Html.LabelFor(m => m.Price)

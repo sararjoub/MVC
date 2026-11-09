@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<UniversityCafeteriaDay6.Models.Order>
+
+<h2>Orders</h2>
+
+@Html.ActionLink("Add Order", "Create")
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Customer Name</th>
+        <th>Order Date</th>
+        <th>Total Price</th>
+        <th>Status</th>
+        <th>Employee</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.CustomerName</td>
+            <td>@item.OrderDate.ToShortDateString()</td>
+            <td>@item.TotalPrice</td>
+            <td>@item.Status</td>
+            <td>@item.Employee.FullName</td>
+            <td>
+    @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+     @Html.ActionLink("Details", "Details", new { id = item.Id })
+
+    @using (Html.BeginForm("Delete", "Order",
+        new { id = item.Id }, FormMethod.Post))
+    {
+        <button type="submit"
+                onclick="return confirm('Are you sure?')">
+            Delete
+        </button>
+    }
+</td>
+        </tr>
+    }
+</table>

@@ -1,39 +1,25 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-
+﻿
 @model UniversityCafeteriaDay6.Models.Supplier
 
 <h2>Add Supplier</h2>
 
-@using (Html.BeginForm("Create", "Supplier", FormMethod.Post))
+@using (Html.BeginForm())
 {
-    @Html.AntiForgeryToken()
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name)
+    <br />
 
-    <div class="mb-3">
-        @Html.LabelFor(m => m.Name)
+    @Html.LabelFor(x => x.Phone)
+    @Html.TextBoxFor(x => x.Phone)
+    <br />
 
-        @Html.TextBoxFor(m => m.Name,
-            new { @class = "form-control" })
-    </div>
+    @Html.LabelFor(x => x.Email)
+    @Html.TextBoxFor(x => x.Email)
+    <br />
 
-    <div class="mb-3">
-        @Html.LabelFor(m => m.Phone)
+    @Html.LabelFor(x => x.Address)
+    @Html.TextBoxFor(x => x.Address)
+    <br />
 
-        @Html.TextBoxFor(m => m.Phone,
-            new { @class = "form-control" })
-    </div>
-
-    <div class="mb-3">
-        @Html.LabelFor(m => m.Email)
-
-        @Html.TextBoxFor(m => m.Email,
-            new { @class = "form-control" })
-    </div>
-
-    <button type="submit" class="btn btn-success">
-        Save Supplier
-    </button>
+    <button type="submit">Save</button>
 }

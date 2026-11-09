@@ -20,6 +20,9 @@
             <th>Name</th>
             <th>Phone</th>
             <th>Email</th>
+            <th>Address</th>
+            <th>Products Count</th>
+            <th>Actions</th>
         </tr>
     </thead>
 
@@ -31,6 +34,15 @@
                 <td>@supplier.Name</td>
                 <td>@supplier.Phone</td>
                 <td>@supplier.Email</td>
+                <td>@supplier.Address</td>
+                
+<td>
+    @(((List<UniversityCafeteriaDay6.Models.Product>)ViewBag.Products).Count(p => p.SupplierId == supplier.Id))
+</td>
+
+                <td>
+    @Html.ActionLink("Edit", "Edit", new { id = supplier.Id })
+</td>
             </tr>
         }
     </tbody>

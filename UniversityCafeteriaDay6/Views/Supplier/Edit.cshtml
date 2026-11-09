@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model UniversityCafeteriaDay6.Models.Supplier
+
+<h2>Edit Supplier</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name)
+    <br />
+
+    @Html.LabelFor(x => x.Phone)
+    @Html.TextBoxFor(x => x.Phone)
+    <br />
+
+    @Html.LabelFor(x => x.Email)
+    @Html.TextBoxFor(x => x.Email)
+    <br />
+
+    @Html.LabelFor(x => x.Address)
+    @Html.TextBoxFor(x => x.Address)
+    <br />
+
+    <button type="submit">Save Changes</button>
+}

@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model UniversityCafeteriaDay6.Models.Product
+
+<h2>Product Details</h2>
+
+<p>Id: @Model.Id</p>
+<p>Name: @Model.Name</p>
+<p>Description: @Model.Description</p>
+<p>Price: @Model.Price</p>
+<p>Quantity: @Model.Quantity</p>
+<p>Category: @Model.Category.Name</p>
+<p>Supplier: @Model.Supplier.Name</p>
+
+@Html.ActionLink("Back", "Index")

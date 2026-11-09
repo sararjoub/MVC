@@ -18,10 +18,14 @@
         <tr>
             <th>Id</th>
             <th>Name</th>
+            <th>Description</th>
             <th>Price</th>
             <th>Quantity</th>
             <th>Category</th>
             <th>Supplier</th>
+            <th>Stock Status</th>
+            
+            <th>Actions</th>
         </tr>
     </thead>
 
@@ -31,10 +35,37 @@
             <tr>
                 <td>@product.Id</td>
                 <td>@product.Name</td>
+                <td>@product.Description</td>
                 <td>@product.Price</td>
                 <td>@product.Quantity</td>
+                
+<td>
+    @if (product.Quantity < 5)
+    {
+        <span style="color:red">Low Stock</span>
+    }
+    else
+    {
+        <span>Available</span>
+    }
+</td>
+
                 <td>@product.Category.Name</td>
                 <td>@product.Supplier.Name</td>
+                <td>
+    @Html.ActionLink("Edit", "Edit", new { id = product.Id })
+      @Html.ActionLink("Details", "Details", new { id = product.Id })
+
+    @using (Html.BeginForm("Delete", "Product",
+        new { id = product.Id }, FormMethod.Post))
+    {
+        <button type="submit"
+                onclick="return confirm('Are you sure?')">
+            Delete
+        </button>
+    }
+</td>
+
             </tr>
         }
     </tbody>
