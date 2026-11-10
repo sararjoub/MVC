@@ -1,0 +1,28 @@
+﻿
+@model Task_8.Models.Product
+
+<h2>Add Product</h2>
+
+<form asp-controller="Product" asp-action="Create" method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <label>Name</label>
+    <input asp-for="Name" />
+    <br />
+
+    <label>Description</label>
+    <input asp-for="Description" />
+    <br />
+
+    <label>Price</label>
+    <input asp-for="Price" type="number" step="0.01" />
+    <br />
+
+    <label>Quantity</label>
+    <input asp-for="Quantity" type="number" />
+    <br />
+
+    <button type="submit">Save</button>
+
+</form>

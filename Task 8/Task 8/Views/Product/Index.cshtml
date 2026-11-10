@@ -1,0 +1,65 @@
+﻿
+@model List<Task_8.Models.Product>
+
+<h2>Products</h2>
+
+@if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+{
+    <a asp-controller="Product" asp-action="Create">
+        Add Product
+    </a>
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>@item.Price</td>
+            <td>@item.Quantity</td>
+            
+
+<td>
+    <a asp-controller="Product"
+       asp-action="Details"
+       asp-route-id="@item.Id">
+        Details
+    </a>
+
+    @if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+    {
+        <a asp-controller="Product"
+           asp-action="Edit"
+           asp-route-id="@item.Id">
+            Edit
+        </a>
+
+        <form asp-controller="Product"
+              asp-action="Delete"
+              asp-route-id="@item.Id"
+              method="post"
+              style="display:inline">
+
+            <button type="submit"
+                    onclick="return confirm('Are you sure?')">
+                Delete
+            </button>
+        </form>
+    }
+</td>
+
+
+        </tr>
+    }
+</table>

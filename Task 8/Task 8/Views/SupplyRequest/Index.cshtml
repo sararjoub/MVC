@@ -1,0 +1,63 @@
+﻿
+@model List<Task_8.Models.SupplyRequest>
+
+<h2>Supply Requests</h2>
+
+@if (User.IsInRole("User"))
+{
+    <a asp-controller="SupplyRequest" asp-action="Create">
+        Add Request
+    </a>
+}
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Request Date</th>
+        <th>Total Price</th>
+        <th>Status</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.RequestDate.ToShortDateString()</td>
+            <td>@item.TotalPrice</td>
+            <td>@item.Status</td>
+
+            
+<td>
+    <a asp-controller="SupplyRequest"
+       asp-action="Details"
+       asp-route-id="@item.Id">
+        Details
+    </a>
+
+    @if (User.IsInRole("Admin") ||
+         User.IsInRole("SuperAdmin") ||
+         item.Status == "Pending")
+    {
+        <a asp-controller="SupplyRequest"
+           asp-action="Edit"
+           asp-route-id="@item.Id">
+            Edit
+        </a>
+
+        <form asp-controller="SupplyRequest"
+              asp-action="Delete"
+              asp-route-id="@item.Id"
+              method="post"
+              style="display:inline">
+
+            <button type="submit"
+                    onclick="return confirm('Are you sure?')">
+                Delete
+            </button>
+        </form>
+    }
+</td>
+
+        </tr>
+    }
+</table>

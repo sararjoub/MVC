@@ -1,0 +1,32 @@
+﻿
+@model Task_8.Models.SupplyRequest
+
+<h2>Request Details</h2>
+
+<p>Request ID: @Model.Id</p>
+<p>Date: @Model.RequestDate.ToShortDateString()</p>
+<p>Status: @Model.Status</p>
+<p>Total Price: @Model.TotalPrice</p>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Total</th>
+    </tr>
+
+    @foreach (var item in Model.RequestItems)
+    {
+        <tr>
+            <td>@item.Product.Name</td>
+            <td>@item.Quantity</td>
+            <td>@item.Price</td>
+            <td>@(item.Quantity * item.Price)</td>
+        </tr>
+    }
+</table>
+
+<a asp-controller="SupplyRequest" asp-action="Index">
+    Back
+</a>

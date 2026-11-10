@@ -4,14 +4,14 @@
 @{
 }
 
-
-@model UniversityCafeteriaDay6.Models.Category
+ 
+@model UniversityCafeteriaDay6.Models.Category // بتستقبل عنصر واحد مو قائمة زي الاندكس فيو 
 
 <h2>Add Category</h2>
 
 @using (Html.BeginForm())
 {
-    @Html.LabelFor(x => x.Name)
+    @Html.LabelFor(x => x.Name) 
     @Html.TextBoxFor(x => x.Name)
 
     <br />

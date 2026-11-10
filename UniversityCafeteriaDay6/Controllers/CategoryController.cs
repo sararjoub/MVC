@@ -38,6 +38,7 @@ namespace UniversityCafeteriaDay6.Controllers
 
             return RedirectToAction("Index");
         }
+        // هون منعملهم على مستوى كل ريكورد لانه رح نعدل ونشوف تفاصيل ونحذف عنصر معين وهما بحاجة اي دي  مو  اشي يتطبق ع كل التيبل زي الاضافه 
         [HttpGet]
         public IActionResult Edit(int id) // بستقبل  ال id لل catrgory يلي رح نعدله
         {
